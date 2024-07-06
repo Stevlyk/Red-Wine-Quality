@@ -7,6 +7,7 @@ This repository contains an analysis of the nutritional features and quality of 
 Data Sources
 
 - kaggle.com
+- CognoRise InfoTech
 
 ## Methodology
 
